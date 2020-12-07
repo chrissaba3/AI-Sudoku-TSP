@@ -1,6 +1,8 @@
 Name: Chris Saba
-Project: Final
-Due 5/8/20
+
+Project: AI solving algorithms
+
+Date: 5/8/20
 
 How to run code:
 
